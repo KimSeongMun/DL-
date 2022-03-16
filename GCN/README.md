@@ -4,6 +4,6 @@
 3. I used the following blocks from the original code. (2, 3, 4, 6, 7, 10, 11, 12)  
 4. I used the following blocks by removing args and cuda from the original code. (5, 8, 9, 14, 15, 16)  
 5. The biggest change is block 13.  
-6. In block 13  As the GCNblock class was deleted from original code, two gnc_layer was randomly added, tanh of pred3 was changed to ReLU, and the forward part was modified accordingly.  
+6. In block 13. As the GCNblock class was deleted from original code, two gnc_layer was randomly added, tanh of pred3 was changed to ReLU, and the forward part was modified accordingly.  
 7. I added the following blocks according to the situation. (1, 17, 18)
 8. I added the following blocks to visualize. (19, 20)
